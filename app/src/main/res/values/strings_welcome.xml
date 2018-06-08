@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">
+        Welcome on Exadroid application.\n\n
+        Its name is a contraction of \"example\" and \"android\" and its obviously an application where you can find some examples implementation of android
+        code.\n\n
+        Hope you will enjoy this project.
+    </string>
+</resources>
