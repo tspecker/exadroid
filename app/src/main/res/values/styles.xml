@@ -14,6 +14,18 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:textColor">@color/primaryText</item>
+        <item name="buttonStyle">@style/AppButton</item>
+    </style>
+
+    <style name="Toolbar" parent="Theme.AppCompat">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+
+
+    <style name="AppButton" parent="Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimaryDark</item>
     </style>
 
 </resources>
